@@ -1,12 +1,14 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Infix operators for elm-simple-form",
     "repository": "https://github.com/bruz/elm-simple-form-infix.git",
     "license": "BSD3",
     "source-directories": [
         "src/"
     ],
-    "exposed-modules": [ "Form.Infix" ],
+    "exposed-modules": [
+        "Form.Infix"
+    ],
     "dependencies": {
         "elm-lang/core": "4.0.0 <= v < 5.0.0",
         "etaque/elm-simple-form": "3.0.0 <= v < 6.0.0"
