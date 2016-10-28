@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Infix operators for elm-simple-form",
-    "repository": "https://github.com/etaque/elm-simple-form-infix.git",
+    "repository": "https://github.com/bruz/elm-simple-form-infix.git",
     "license": "BSD3",
     "source-directories": [
         "src/"
